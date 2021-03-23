@@ -1,4 +1,4 @@
-# customuser
+# Custom User
 
 Custom user project will provide us API for customised user in Django Rest Framework.
 
